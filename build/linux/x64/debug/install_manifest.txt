@@ -1,0 +1,14 @@
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/calculator
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/abdibogoreh/Documents/calculator/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
